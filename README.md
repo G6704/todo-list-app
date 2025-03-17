@@ -9,7 +9,14 @@ This is my simple Todo List app built with React, Vite, Tailwind CSS, and Fireba
 
 ## Setup
 
-### 1. Clone the Repository
-Run the following command to clone the repository:
-```bash
-git clone https://github.com/your-username/todo-list-app.git
+### 1. Download the ZIP file 
+
+### 2. NPM Install
+Assuming that all of the tool mentioned above work (I used Tailwind CSS 3.4 seen in Package.json) type NPM install into the terminal the todo-list-app-main terminal
+
+### 3. Check the Firebase.js
+If you want to keep the project connected with my google firebase leave it as it is.
+
+### USERNAME and PASSWORD
+galih.aditama@binus.ac.id
+2602227421
