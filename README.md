@@ -20,8 +20,9 @@ Download the project ZIP file and extract it to your desired location.
 ### 2. Install Dependencies
 Run the following command in the terminal to install all dependencies:
 
+```bash
 npm install
-
+```
 ## Note
 Ensure all tools mentioned above are installed. Tailwind CSS version 3.4 is used (as specified in `package.json`).
 
