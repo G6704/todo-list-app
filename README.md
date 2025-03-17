@@ -1,22 +1,38 @@
 # Todo List App
 
-This is my simple Todo List app built with React, Vite, Tailwind CSS, and Firebase.
+A simple Todo List app built with **React**, **Vite**, **Tailwind CSS**, and **Firebase**.
+
+---
 
 ## Features
+
 - User authentication (log in and log out).
 - Create, edit, and delete tasks.
-- Profile page with user details (My detail for the time being).
+- Profile page with user details (My details for the time being).
+
+---
 
 ## Setup
 
-### 1. Download the ZIP file 
+### 1. Download the ZIP File
+Download the project ZIP file and extract it to your desired location.
 
-### 2. NPM Install
-Assuming that all of the tool mentioned above work (I used Tailwind CSS 3.4 seen in Package.json) type NPM install into the terminal the todo-list-app-main terminal
+### 2. Install Dependencies
+Run the following command in the terminal to install all dependencies:
 
-### 3. Check the Firebase.js
-If you want to keep the project connected with my google firebase leave it as it is.
+```bash
+npm install
 
-### USERNAME and PASSWORD
-galih.aditama@binus.ac.id
-2602227421
+## Note
+Ensure all tools mentioned above are installed. Tailwind CSS version 3.4 is used (as specified in `package.json`).
+
+## Firebase Configuration
+If you want to keep the project connected to my Google Firebase, leave the `Firebase.js` file as it is.
+
+## Default Login Credentials
+- **Username**: `galih.aditama@binus.ac.id`
+- **Password**: `2602227421`
+
+---
+
+Enjoy using the Todo List App! 🚀
