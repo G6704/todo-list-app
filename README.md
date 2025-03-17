@@ -20,7 +20,6 @@ Download the project ZIP file and extract it to your desired location.
 ### 2. Install Dependencies
 Run the following command in the terminal to install all dependencies:
 
-```bash
 npm install
 
 ## Note
